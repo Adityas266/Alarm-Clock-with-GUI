@@ -1,6 +1,6 @@
 # Alarm Clock with GUI
 
-This project is an Alarm Clock with a Graphical User Interface (GUI) built using Python and Tkinter library.
+This project is an Alarm Clock with a Graphical User Interface (GUI) built using Python.
 
 ## Overview
 
